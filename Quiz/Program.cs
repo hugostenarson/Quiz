@@ -71,38 +71,4 @@ else {
     System.Environment.Exit(1);
 }
 
-// else if (hem != "c" || elnur != "ja" || goat != "alexander" || goat != "nathalie") {
-//     Console.WriteLine("Fel! Försök igen.");
-//     Thread.Sleep(1500);
-//     System.Environment.Exit(1);
-// }
-
-
-// if (hem != "c")  {
-//     Console.WriteLine("Fel! Försök igen.");
-//      Thread.Sleep(4000);
-//      System.Environment.Exit(1);
-
-// }
-//  if (elnur != "ja")
-// {
-//     Console.WriteLine("Fel! Du förlorade alla poäng, försök igen.");
-//     sum = 0;
-//     Thread.Sleep(4000);
-//     System.Environment.Exit(1);
-// }
-
-//   if (goat == "vera") {
-//     sum = 0;
-//     Console.WriteLine("Vera?? No offense till henne men man somnar typ på hennes lektioner.");
-//      Console.WriteLine("Du var nära på att klara quizen men en förlust är en förlust. Du har nu {sum} poäng. Försök igen.");
-//     Thread.Sleep(3000);
-//     System.Environment.Exit(1);
-//  }
-
-
-
-
-
-
 Console.ReadLine();
